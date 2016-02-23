@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="Oracle - DEV@192.168.5.31" uuid="e0c66ab9-6c06-4ba5-afd1-7857048ef7b7">
+      <secret-storage>master_key</secret-storage>
+      <user-name>ttsec</user-name>
+      <schema-pattern>*.SYS *.SYSTEM *.TTSEC</schema-pattern>
+      <default-schemas>*.SYS *.SYSTEM *.TTSEC</default-schemas>
+    </data-source>
+  </component>
+</project>
